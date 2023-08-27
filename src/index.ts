@@ -1,0 +1,1 @@
+console.log('typescript run on way ok')
